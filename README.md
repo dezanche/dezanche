@@ -1,10 +1,8 @@
-Welcome to my Github page!
+**Welcome to my Github page!**
 
-I work as a medical physicist and associate professor specializing in magnetic resonance imaging (MRI).
+I work as a medical physicist and associate professor specializing in magnetic resonance imaging (MRI). [Here](https://www.ualberta.ca/medicine/about/people/details.html?n=nicola-de-zanche) is a page with more information.
 
-[Here](https://www.ualberta.ca/medicine/about/people/details.html?n=nicola-de-zanche) is a page with more information.
-
-My repositories contain hardware designs for radio frequency (RF) instrumentation used in MRI scanners, as well as tools used to build and test RF devices for MRI.
+My repositories contain hardware designs for [radio frequency (RF) instrumentation used in MRI scanners](https://github.com/dezanche/MRI_RF_hardware), as well as [tools used to build and test RF devices for MRI](https://github.com/dezanche/RF_tools).
 
 <!--
 **dezanche/dezanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
