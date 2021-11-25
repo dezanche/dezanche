@@ -2,7 +2,20 @@
 
 I work as a medical physicist and associate professor specializing in magnetic resonance imaging (MRI). [Here](https://www.ualberta.ca/medicine/about/people/details.html?n=nicola-de-zanche) is a page with more information.
 
-My repositories contain hardware designs for [radio frequency (RF) instrumentation used in MRI scanners](https://github.com/dezanche/MRI_RF_hardware), as well as [tools used to build and test RF devices for MRI](https://github.com/dezanche/RF_tools).
+My github repositories contain hardware designs (and associated code if applicable) for the following applications.
+
+# Phantoms for MRI
+These are the test objects used to evaluate the performance of MRI scanners and measure their performance:
+* [Modular preclinical MRI phantom](https://github.com/dezanche/preclinical_MRI_phantom)
+* [Large-volume MRI distortion phantom](https://github.com/dezanche/MRI_distortion_phantom)
+
+# Radio frequency (RF) instrumentation used in MRI scanners
+Modules used in the RF portions of the scanner:
+* [32-Channel RF Signal Amplifier and Attenuator System](https://github.com/dezanche/32-channel_RF_system)
+
+# Other RF tools
+Miscellaneous tools and devices that are useful in any radio frequency (RF) electronics lab:
+* [Shielded RF magnetic field probe](https://github.com/dezanche/H-field_RF_probe)
 
 <!--
 **dezanche/dezanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
