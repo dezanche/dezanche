@@ -2,7 +2,7 @@
 
 I work as a medical physicist and associate professor specializing in magnetic resonance imaging (MRI). [Here](https://www.ualberta.ca/medicine/about/people/details.html?n=nicola-de-zanche) is a page with more information.
 
-My github repositories contain hardware designs (and associated code if applicable) for the following applications.
+My github repositories contain hardware designs (and associated code if applicable) for the following applications. I hope you find them useful.
 
 # Phantoms for MRI
 These are the test objects used to evaluate the performance of MRI scanners and measure their performance:
