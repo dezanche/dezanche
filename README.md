@@ -5,7 +5,7 @@ I work as a medical physicist and associate professor specializing in magnetic r
 My github repositories contain hardware designs (and associated code if applicable) for the following applications. I hope you find them useful.
 
 # Phantoms for MRI
-These are the test objects used to evaluate the performance of MRI scanners and measure their performance:
+Phantoms are the test objects used to evaluate the performance of MRI scanners and measure their performance. These are 2 examples that were developed in my lab:
 * [Modular preclinical MRI phantom](https://github.com/dezanche/preclinical_MRI_phantom)
 * [Large-volume MRI distortion phantom](https://github.com/dezanche/MRI_distortion_phantom)
 
