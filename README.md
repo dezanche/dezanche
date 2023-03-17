@@ -17,6 +17,10 @@ Modules used in the RF portions of the scanner:
 Miscellaneous tools and devices that are useful in any radio frequency (RF) electronics lab:
 * [Shielded RF magnetic field probe](https://github.com/dezanche/H-field_RF_probe)
 
+# Matlab/Octave code
+A simple function to graphically display real and complex matrices:
+* [Hinton Diagram](https://github.com/dezanche/Hinton_plot)
+
 <!--
 **dezanche/dezanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
