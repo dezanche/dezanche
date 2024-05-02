@@ -9,13 +9,17 @@ Phantoms are the test objects used to evaluate the performance of MRI scanners a
 * [Modular preclinical MRI phantom](https://github.com/dezanche/preclinical_MRI_phantom)
 * [Large-volume MRI distortion phantom](https://github.com/dezanche/MRI_distortion_phantom)
 
-# Radio frequency (RF) instrumentation used in MRI scanners
+# Radio frequency (RF) coils and instrumentation used in MRI scanners
+RF coil design:
+* [Elliptical Birdcage Coil](https://github.com/dezanche/Elliptical_Birdcage_Coil/)
+
 Modules used in the RF portions of the scanner:
 * [32-Channel RF Signal Amplifier and Attenuator System](https://github.com/dezanche/32-channel_RF_system)
 
 # Other RF tools
 Miscellaneous tools and devices that are useful in any radio frequency (RF) electronics lab:
 * [Shielded RF magnetic field probe](https://github.com/dezanche/H-field_RF_probe)
+* [Dual-Loop RF Magnetic Field Probe](https://github.com/dezanche/Dual-loop_RF_probe)
 
 # Matlab/Octave code
 A simple function to graphically display real and complex matrices:
