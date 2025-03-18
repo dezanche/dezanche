@@ -10,7 +10,10 @@ Phantoms are the test objects used to evaluate the performance of MRI scanners a
 * [Large-volume MRI distortion phantom](https://github.com/dezanche/MRI_distortion_phantom)
 
 # Radio frequency (RF) coils and instrumentation used in MRI scanners
-RF coil design:
+A connector for transmit/receive RF coils using 3D-printed parts:
+* [Transmit/Receive RF Coil Connector](https://github.com/dezanche/open_TR_RF_coil_connector)
+
+An example of using co-simulation to design an RF coil:
 * [Elliptical Birdcage Coil](https://github.com/dezanche/Elliptical_Birdcage_Coil/)
 
 Modules used in the RF portions of the scanner:
