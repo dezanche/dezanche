@@ -2,7 +2,7 @@
 
 I work as a medical physicist and associate professor specializing in magnetic resonance imaging (MRI). [Here](https://apps.ualberta.ca/directory/person/dezanche) is a page with more information.
 
-My github repositories contain hardware designs (and associated code if applicable) for the following applications. I hope you find them useful.
+My github repositories include both software and hardware designs (and associated code if applicable) for the following applications. I hope you find them useful.
 
 # Phantoms for MRI
 Phantoms are the test objects used to evaluate the performance of MRI scanners and measure their performance. These are 2 examples that were developed in my lab:
@@ -24,9 +24,9 @@ Miscellaneous tools and devices that are useful in any radio frequency (RF) elec
 * [Shielded RF magnetic field probe](https://github.com/dezanche/H-field_RF_probe)
 * [Dual-Loop RF Magnetic Field Probe](https://github.com/dezanche/Dual-loop_RF_probe)
 
-# Matlab/Octave code
-A simple function to graphically display real and complex matrices:
-* [Hinton Diagram](https://github.com/dezanche/Hinton_plot)
+# Software code
+* [Hinton Diagram](https://github.com/dezanche/Hinton_plot): A simple function to graphically display real and complex matrices in Matlab or Octave
+* [LinacSimPy](https://github.com/dezanche/LinacSimPy): An interactive model of a medical linear accelerator (LINAC) for teaching purposes
 
 <!--
 **dezanche/dezanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
